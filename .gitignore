@@ -1,5 +1,5 @@
 # ignore followint folder
 
-**/build
+**/build/*
 **/.vscode
 **/.DS_Store
